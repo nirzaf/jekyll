@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Quadrate Tech School is a complete free virtual Academy to learn new programming languages and other skills are which required by the IT industry, Quadrate Tech School is completely free for everyone & sponsored by Quadrate Tech Solutions to contribute to the growth of local IT community and share the knowledge with international Software Developers, all our content creators and virtual lecturers are providing volunteer service or paid by Quadrate Tech Solutions
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Quadrate Tech School]: https://quadrate.lk/blogs
