@@ -29,9 +29,6 @@ theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
